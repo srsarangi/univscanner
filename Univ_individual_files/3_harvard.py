@@ -17,7 +17,6 @@ def harvard():
     filename = "harvard.txt"
     f = open(filename, "w")
 
-
     excel_filename = "harvard.csv"
     f2 = open(excel_filename, "w")
     csvwriter = csv.writer(f2)
@@ -34,7 +33,7 @@ def harvard():
 
     # d gives the array of all profs on the dept homepage
     # d = soup.find('a', {'class':"accordian-title"})
-    d = soup.find(string="Architecture").find_next('div')
+    d = soup.find('a', text="Computer Architecture").find_next('div')
     dd = d.find_all('div', {'class': 'views-field views-field-title'})
 
     #iterating for every prof
@@ -53,7 +52,7 @@ def harvard():
 
         # print(name, link)
         email = "Not Found"
-        # print(name, email, link)
+        print(name, link)
         OnlygetEmail(var, garbage_emails, name, link, email, prof_resp)
 
 
