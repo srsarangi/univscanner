@@ -11192,7 +11192,7 @@ def OnlygetEmail(var, grabage_emails, name, link, email, prof_resp):
 
 
 if __name__ == '__main__':
-    # mit()
+    mit()
     stanford()
     harvard()
     caltech()
