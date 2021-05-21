@@ -11197,7 +11197,7 @@ if __name__ == '__main__':
     harvard()
     caltech()
     oxford()
-    uni_cambridge()
+    cambridge()
     imperial_college()
     uchicago()
     ucl_london()
