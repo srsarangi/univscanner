@@ -109,7 +109,7 @@ def harvard():
 
     # d gives the array of all profs on the dept homepage
     
-    d = soup.find(string="Architecture").find_next('div')
+    d = soup.find('a', text="Computer Architecture").find_next('div')
     dd = d.find_all('div', {'class': 'views-field views-field-title'})
 
     #iterating for every prof
