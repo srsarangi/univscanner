@@ -13,7 +13,7 @@ def uni_colorado_boulder():
     r = requests.get(url, headers=headers)
 
     # getting the soup by parsing the html parsel to text to request r
-    soup = BeautifulSoup(r.text, "html5lib")
+    soup = BeautifulSoup(r.text, "lxml")
     # print(soup.prettify)
 
     # file initialization to write

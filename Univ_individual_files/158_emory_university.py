@@ -6,6 +6,10 @@ import re
 import csv
 import sys
 from bs4 import BeautifulSoup
+import requests
+from os.path  import basename
+import pytesseract
+from PIL import Image
 
 def emory_university():
     url = "https://www.cs.emory.edu/people/faculty/"
@@ -74,7 +78,34 @@ def emory_university():
     f3.close()
     print("Finished")
 
+def GET_Email_FROM_PIC(site):
+    response = requests.get(site)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    tag1 = soup.find('b',string="Email")
+    tag2= tag1.find_next('img')
+    image_url = tag2.get("src")
+    r=requests.get(site+image_url)
+    data = image_url
+    response = urllib.request.urlopen(data)
+    with open('image.jpg', 'wb') as f:
+        f.write(response.file.read())
 
+    path_to_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    image_path = r"image.jpg"
+    
+    # Opening the image & storing it in an image object
+    img = Image.open(image_path)
+
+    # Providing the tesseract executable
+    # location to pytesseract library
+    pytesseract.tesseract_cmd = path_to_tesseract
+    
+    # Passing the image object to image_to_string() function
+    # This function will extract the text from the image
+    text = pytesseract.image_to_string(img)
+  
+# Displaying the extracted text
+    return text[:-1]
 
 def filterandgetEmail(var, grabage_emails, name, link, email, prof_resp):
     f = var[0]
@@ -103,7 +134,7 @@ def filterandgetEmail(var, grabage_emails, name, link, email, prof_resp):
                     if eemail in new_emails:
                         new_emails.remove(eemail)
                 if len(new_emails) == 0:
-                    email = "Email Not Found"
+                    email =GET_Email_FROM_PIC(link) 
                     f.write(link + '\n' + name + "\t"+ email + "\n")
                     csvwriter.writerow([u_name, country, name, email, link])
                     csvwriter2.writerow([u_name, country, name, email, link])
