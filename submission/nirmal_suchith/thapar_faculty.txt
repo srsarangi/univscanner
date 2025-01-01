@@ -1,0 +1,630 @@
+Name: Dr. Shalini Batra
+Email: sbatra@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTcz
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Big Data Analytics, Machine Learning
+
+Name: Dr. Seema Bawa
+Email: seema@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTYx
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Science, NLP, Blockchain Technology, Machine Learning
+
+Name: Dr. Rinkle Rani
+Email: raggarwal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTcy
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Big Data Analytics, Machine Learning
+
+Name: Dr. Sharad Saxena
+Email: sharad.saxena@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTc3
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Wireless Ad-Hoc Sensor Networks and IoT
+
+Name: Dr. Sushma Jain
+Email: sjain@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTgw
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Networking, Data Analytics, Machine Learning
+
+Name: Dr. Ravinder Kumar
+Email: ravinder@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTgy
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning
+
+Name: Dr. Karun Verma
+Email: karun.verma@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTg0
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Natural Language Processing, Human Computer Interfaces, Entrepreneurial Research
+
+Name: Dr. Vinay Arora
+Email: vinay.arora@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTg5
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Applied Deep learning in Biomedical Signals
+
+Name: Dr. Prashant S Rana
+Email: prashant.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTk1
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Data Mining, Modelling and Simulation, Parallel Algorithms,Machine Learning, Optimization, Computational Biology
+
+Name: Dr. Tarunpreet Bhatia
+Email: tarunpreet@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAwOA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Wireless Networks, Network and Information Security, Cryptography, Mobile Cloud Computing, Machine Learning and Deep Learning
+
+Name: Dr. Rajkumar Tekchandani
+Email: rtekchandani@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTg4
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Software Code Clone Detection, Deep Learning
+
+Name: Dr. Rajesh Mehta
+Email: rajesh.mehta@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAxNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Image Processing and Machine Learning Algorithms
+
+Name: Dr. Husanbir Singh Pannu
+Email: hspannu@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAwNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning
+
+Name: Dr. Rajendra Kumar Roul
+Email: raj.roul@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning, IoT
+
+Name: Dr. Jasmeet Singh
+Email: jasmeet.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyNA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Natural Language Processing
+
+Name: Dr. Sangita Roy
+Email: sangita.roy@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTk2
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Network Security, Cryptography, Blockchain, Image processing, Deep Learning
+
+Name: Dr. Surjit Singh
+Email: surjit.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAzMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Advanced Computer Networks, WSNs, SDNs, Internet of Things, Blockchain Technologies, Information Security and Machine Learning
+
+Name: Mr. Anil Vashisht
+Email: avashisht@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTc4
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Networks, DBMS, System Analysis & Design, Computer System Architecture,Databases , networks
+
+Name: Dr. Karamjeet Singh
+Email: karamjeet.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyOA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Medical Image Processing, Machine Learning, IoT, Medical Image Retrieval.
+
+Name: Dr. Jatin Bedi
+Email: jatin.bedi@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQyNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Mining and Machine Learning
+
+Name: Dr. Shivani Sharma
+Email: shivani.sharma@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQzMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data privacy, information security, machine learning, Big data , Data Mining
+
+Name: Dr. Mansi Sharma
+Email: mansi.sharma@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY2NQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Vision, Computational Imaging and Photography, Machine Learning and Data Science
+
+Name: Dr. Anil Singh
+Email: anil.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQyMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cloud, Fog & Edge Computing, Distributed Systems
+
+Name: Dr. Ravneet Kaur
+Email: ravneet.kaur1@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUxNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Social Network Analysis and Mining, Machine Learning, Deep Learning, Natural Language Processing
+
+Name: Dr. Yashwant Singh Patel
+Email: yashwant.patel@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQ5Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cloud Computing, Edge Computing, Distributed Systems, and Deep Learning
+
+Name: Dr. Nitigya Sambyal
+Email: Nitigya.sambyal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUwOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Deep Learning, Computer Vision and Image Processing
+
+Name: Dr. Amit Kumar Trivedi
+Email: amitkumar.trivedi@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQxOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Biometric, Image Processing, Machine learning
+
+Name: Dr. Sonu Lamba
+Email: sonu.lamba@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUxMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Image Processing
+
+Name: Dr. Shashank Singh
+Email: shashank.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUyMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Natural Language Processing, Artificial Intelligence
+
+Name: Dr. Kuntal Chowdhury
+Email: kuntal.chowdhury@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUyMQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Mining, Medical Image Analysis, Machine Learning
+
+Name: Dr. Seema Wazarkar
+Email: seema.wazarkar@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQ5MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Vision, Machine Learning, Soft Computing, Multimodal Analysis, Human-Computer Interaction, Healthcare and Industrial Applications
+
+Name: Dr. Simranjit Kaur
+Email: simranjit.kaur@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUyMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Biomedical signal and image processing, Machine learning
+
+Name: Dr. Jyoti
+Email: Jyoti.maggu@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUwNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Signal Processing and Machine Learning
+
+Name: Dr. Payal
+Email: payal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUyOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Artificial Intelligence, Deep Learning, Computer Vision
+
+Name: Dr. Javed Imran
+Email: javed.imran@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU1MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Vision, Machine Learning
+
+Name: Dr. Saif Nalband
+Email: saif.nalband@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU1Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Biomedical Signal Processing, Machine Learning, Blockchain in healthcare
+
+Name: Dr. Aditi Sharma
+Email: aditi.sharma@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU3Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Affective Computing, Text Summarization, Machine Learning
+
+Name: Dr. Rahul Nijhawan
+Email: rahul.nijhawan@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU3NA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Image Processing, Medical Imaging, Computer Vision
+
+Name: Dr. Sumit Kumar
+Email: sumit.kumar1@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU3OA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Image Processing, Machine Learning
+
+Name: Dr. Jinee Goyal
+Email: jinee.goyal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU3OQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning, Healthcare
+
+Name: Dr. Arun Singh Pundir
+Email: arun.pundir@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU5MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning
+
+Name: Dr. Mandeep Kaur
+Email: mandeep.bajwa@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU5NQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cloud Computing, Machine Learning, Blockchain
+
+Name: Dr. Ritesh Sharma
+Email: ritesh.sharma1@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY4Ng==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Active Learning, Data Centric AI, Incremental learning, Graph Neural Networks, Machine Learning
+
+Name: Dr. Gurpal Singh Chhabra
+Email: gurpal.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAwMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cyber  Forensics, Network Security, Big Data Analytics and Business Intelligence, IoT, Machine learning, Sentiment Analysis.
+
+Name: Dr. Anjula Mehto
+Email: anjula.mehto@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTUwNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Wireless Sensor Networks, Internet of Things, Machine Learning
+
+Name: Dr. Ashish Bajaj
+Email: ashish.bajaj@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY5Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Adversarial Machine Learning, Deep Learning, and Natural Language Processing
+
+Name: Dr. Himika Sharma
+Email: himika.sharma@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU5OA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning
+
+Name: Dr. Shruti Aggarwal
+Email: shruti.aggarwal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY1MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Mining, Software Engineering, Databases, Artificial Intelligence, Big Data, IoT
+
+Name: Dr. Mahak Gambhir
+Email: mahak.gambhir@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY2MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Natural Language Processing, Deep Learning
+
+Name: Ms Nidhi Chakravarty
+Email: nidhi.chakravarty@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY4OA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Speech and Image Processing, Audio Spoof Detection, Audio Signal Processing, Machine Learning
+
+Name: Mrs. Ashima Khosla
+Email: ashima.khosla@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY5Mg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, EEG Signal Processing, Healthcare
+
+Name: Dr. Harkiran Kaur
+Email: harkiran.kaur@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAxMQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Information Retrieval Systems, Machine Learning, Social Network Analysis, Intelligent Databases, Cultural Computing, and Software Engineering.
+
+Name: Dr. Harpreet Singh
+Email: harpreet.s@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAxOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Data Analytics
+
+Name: Ms. Sujata Rani
+Email: sujata.singla@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Natural Language Processing, Machine Learning
+
+Name: Dr. Sanjeev Rao
+Email: sanjeev.rao@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAxNQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Natural Language Processing, Machine Learning, Databases
+
+Name: Dr. Amrita Kaur
+Email: amrita@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTM2NQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine/Deep Learning, Medical Image Processing
+
+Name: Dr. Shivani Goswami
+Email: shivani.goswami@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY4Mg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Mining and Machine Learning
+
+Name: Dr. Ananya Pandey
+Email: ananya.pandey@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY5Nw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Vision, Multimodal Data Analysis, Deep Learning, Sentiment Analysis
+
+Name: Dr. G.V. Eswara Rao
+Email: gveswara.rao@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTcwOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Quantum Machine Learning, Medical Imaging, Computer Vision, AI and Machine Learning
+
+Name: Dr Vijay Kumari
+Email: vijay.kumari@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTcxOA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, Multi-Modal Analysis, Multi-lingual
+
+Name: Mrs. Charu Krishna
+Email: charu.krishna@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY3Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Blockchain, Machine Learning and Internet of Things
+
+Name: Dr. Nitin Arora
+Email: nitin.arora@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY3OA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Image Processing and Machine Learning
+
+Name: Dr. Abdul Kadir
+Email: abdul.kadir@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY4NA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Mobile Security, Android Malware, Machine Learning, Deep Learning
+
+Name: Dr. Nisha Singh Chauhan
+Email: nisha.chauhan@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY3OQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Intelligent Transportation Systems
+
+Name: Ms. Stuti Chug
+Email: stuti.chug@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY4MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Brain Computer Interface, Machine Learning and Artificial Intelligence
+
+Name: Dr. Jasleen Kaur
+Email: bedijasleen1313@gmail.com
+Website: https://csed.thapar.edu/facultydetails/MTYyMg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Blockchain Technologies, Information Security and Machine Learning
+
+Name: Dr. Paluck Arora
+Email: parora_phd20@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTcxNA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Image Registration and Deep Learning
+
+Name: Dr. Kashish Goyal
+Email: kashishgoyal31@gmail.com
+Website: https://csed.thapar.edu/facultydetails/MTcxNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Computer Vision
+
+Name: Dr. Shabnam Bawa
+Email: subhsubhbawa@gmail.com
+Website: https://csed.thapar.edu/facultydetails/MTcxNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning and Fog Computing
+
+Name: Ms. Tanya Garg
+Email: tanya.garg@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAzNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Data Mining & Big Data
+
+Name: Shruti Arora
+Email: shruti.arora@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY0OQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Biomedical signals and Machine Learning
+
+Name: Namrata Dimari
+Email: namrata.dimari@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYzMQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer vision, deep learning
+
+Name: Ashiq Nazir Bhat
+Email: ashiqnazirbhat@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYzOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Science, Smart Grid, Machine Learning, Deep Learning, EV, V2G
+
+Name: Shabnam Thakur
+Email: sthakur_phd21@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTcyMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer vision, image processing, Deep learning
+
+Name: Raghuveer Singh Dhaka
+Email: rdhaka_phd21@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY1OQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Medical Image Processing, Wireless Sensor Networks, Machine Learning
+
+Name: Rajesh Kumar Chaudhary
+Email: 
+Website: https://csed.thapar.edu/facultydetails/MTY2MA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning, Federated Learning, NIO Techniques
+
+Name: Bharti
+Email: bharti1@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYzMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning
+
+Name: Diksha Arora
+Email: diksha.arora@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Deep Learning and image processing
+
+Name: Pragya Mishra
+Email: pragya.mishra@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYxNg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Vision, Deep learning
+
+Name: Amardeep Singh
+Email: amardeep.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYxNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Computational Biology
+
+Name: Niyaz Ahmad Wani
+Email: niyazahmad.wani@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning
+
+Name: Priya Kansal
+Email: 
+Website: https://csed.thapar.edu/facultydetails/MTY1NQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Artificial Intelligence, Machine Learning.
+
+Name: Ravneet Kaur
+Email: ravneet.kaur2@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine learning and Smart city applications
+
+Name: Gurpreet Singh
+Email: gurpreet.singh3@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYxMQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Deep Learning
+
+Name: Archana Kumari
+Email: 
+Website: https://csed.thapar.edu/facultydetails/MTY1Ng==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning
+
+Name: Divisha Garg
+Email: divisha.garg@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyNQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Applied Machine Learning in Healthcare and Agriculture
+
+Name: Navpreet
+Email: navpreet1@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyOA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning
+
+Name: Kudratdeep Aulakh
+Email: kudratdeep.aulakh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTYyNA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning
+
+Name: Mrinalini Vishal Kakroo
+Email: mkakroo_phd23@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTczMg==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Deep Learning and Image Segmentation
+
+Name: Ishpreet Kaur
+Email: ikaur_phd23@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTcyOQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning and Deep Learning
+

@@ -1,0 +1,88 @@
+Name: Aakash Bansal
+Email: abansal@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Software Engineering, Artificial Intelligence, Code Security and Privacy, Eye-Tracking,
+                  Human Factors in AI/SE
+
+Name: Gerald Baumgartner
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Cloud Computing and Desktop Grids, Software Testing Tools, Social Media Data Mining,
+                  Embedded Systems Programming Tools, Compiler Optimization, Design and Implementation
+                  of Domain-Specific Languages, and Object-Oriented Languages.
+
+Name: Feng Chen
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Operating Systems, Storage Systems (Flash SSDs, Persistent Memory, Cloud Storage),
+                  Data Management in Cloud and Large-Scale Distributed Storage Systems
+
+Name: Jianhua Chen
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Machine Learning and Data Mining, Data Clustering, Applications of Machine Learning
+                  for Security, Web Mining and Ontology Construction, Fuzzy Logic and Fuzzy Systems,
+                  Intelligent Information Retrieval and Interactive Systems, Knowledge Representation,
+                  Logics in AI, Non-Monotonic Reasoning
+
+Name: James Ghawaly
+Email: jghawaly@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Artificial intelligence, cybersecurity, AI security, machine learning, neural network
+                  architecture, neuromorphic computing, nuclear proliferation detection
+
+Name: Kisung Lee
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Big data management and analytics, distributed data-intensive computing, bioinformatics,
+                  deep learning-based analytics, spatial data management, and social network analytics
+
+Name: Mingxuan Sun
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Machine Learning, Information Retrieval, and Data Mining
+
+Name: Qingyang Wang
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Distributed systems and cloud computing with a current focus on performance and security
+                  of large-scale online services and IoT stream processing.
+
+Name: Jian Zhang
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Machine Learning and Applications
+
+Name: Nathan Brener
+Email: compsci@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Predictive Intelligence, Artificial Intelligence, Route Planning Algorithms, Scientific
+                  Computing, Parallel Processing
+
+Name: Supratik Mukhopadhyay
+Email: mmukho1@lsu.edu
+Website: https://mylsu.apps.lsu.edu/
+University: Louisiana State University, CSE
+Country: USA
+Research Areas: Artificial intelligence with applications to the environment and healthcare
+

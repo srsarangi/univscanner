@@ -1,0 +1,126 @@
+Name: Dr. M.  Rokonuzzaman [RkZ]
+Email: m.rokonuzzaman@northsouth.edu
+Website: https://ece.northsouth.edu/people/m-rokonuzzaman/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics, Technology Transfer and Policy
+
+Name: Dr. Mohammad Rashedur Rahman [RRn]
+Email: rashedur.rahman@northsouth.edu
+Website: https://ece.northsouth.edu/people/rashedur-rahman/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Database and Information Systems, Artificial Intelligence & Robotics, Cloud Computing and Distributed Systems
+
+Name: Dr. Hafiz Abdur Rahman [HzR]
+Email: hafiz.rahman@northsouth.edu
+Website: https://ece.northsouth.edu/people/hafiz-rahman/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Power Systems and Renewable Energy, Embedded Systems and Internet of Things (IoT), Modeling and Simulation, Data Networking and Information Security
+
+Name: Dr. Shazzad  Hosain [Szz]
+Email: shazzad.hosain@northsouth.edu
+Website: https://wayne.edu/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Mobile, Wireless and Web Applications Development, Artificial Intelligence & Robotics, Database and Information Systems, Software Engineering
+
+Name: Dr. Nova  Ahmed [NvA]
+Email: nova.ahmed@northsouth.edu
+Website: https://ece.northsouth.edu/people/nova-ahmed/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Cloud Computing and Distributed Systems, Human Computer Interaction (HCI), Artificial Intelligence & Robotics, Mobile, Wireless and Web Applications Development, Database and Information Systems, Embedded Systems and Internet of Things (IoT)
+
+Name: Dr. Rajesh  Palit [RjP]
+Email: rajesh.palit@northsouth.edu
+Website: https://ece.northsouth.edu/people/rajesh-palit/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Cloud Computing and Distributed Systems, Data Networking and Information Security, Mobile, Wireless and Web Applications Development
+
+Name: Dr. Salekul  Islam [SLE]
+Email: salekul.islam@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-salekul-islam/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Data Networking and Information Security, Artificial Intelligence & Robotics, Signals and Image Processing, Cloud Computing and Distributed Systems
+
+Name: Dr. Lamia  Iftekhar [Lih]
+Email: lamia.iftekhar@northsouth.edu
+Website: https://ece.northsouth.edu/people/lamia-iftekhar/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics, Human Computer Interaction (HCI), Modeling and Simulation
+
+Name: Dr. Mohammad Monirujjaman  Khan [KMM]
+Email: monirujjaman.khan@northsouth.edu
+Website: https://ece.northsouth.edu/people/monirujjaman-khan/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Mobile, Wireless and Web Applications Development, Modeling and Simulation, RF, Microwave and Communication Technology, Cloud Computing and Distributed Systems, Embedded Systems and Internet of Things (IoT), Power Systems and Renewable Energy, Artificial Intelligence & Robotics
+
+Name: Dr. Mahdy Rahman  Chowdhury [Mdy]
+Email: mahdy.chowdhury@northsouth.edu
+Website: https://ece.northsouth.edu/people/mahdy-rahman-chowdhury/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: RF, Microwave and Communication Technology, Modeling and Simulation, Mobile, Wireless and Web Applications Development, Broadband Access and Communication Technologies, Signals and Image Processing, Artificial Intelligence & Robotics
+
+Name: Dr. Sifat  Momen [SfM1]
+Email: sifat.momen@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-sifat-momen/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics
+
+Name: Dr. Nabeel  Mohammed [NbM]
+Email: nabeel.mohammed@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-nabeel-mohammed/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics, Signals and Image Processing
+
+Name: Dr. Shahnewaz  Siddique [SnS1]
+Email: shahnewaz.siddique@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-shahnewaz-siddique/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics, Modeling and Simulation
+
+Name: Dr. Mohammad Ashrafuzzaman Khan [AzK]
+Email: mohammad.khan02@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-mohammad-ashrafuzzaman-khan/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Cloud Computing and Distributed Systems, Artificial Intelligence & Robotics, Software Engineering, Mobile, Wireless and Web Applications Development, Modeling and Simulation
+
+Name: Ms. Meem Tasfia		 Zaman [MEZ]
+Email: zaman.tasfia@northsouth.edu
+Website: https://ece.northsouth.edu/people/ms-meem-tasfia-zaman/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Power Systems and Renewable Energy, Semiconductor Device and Technology, Artificial Intelligence & Robotics
+
+Name: Mr. Ahmed  Fahmin
+Email: ahmed.fahmin@northsouth.edu
+Website: https://ece.northsouth.edu/people/mr-ahmed-fahmin/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Database and Information Systems, Cloud Computing and Distributed Systems, Artificial Intelligence & Robotics
+
+Name: Ms. Ashfia Binte Habib
+Email: ashfia.habib@northsouth.edu
+Website: https://ece.northsouth.edu/people/ms-ashfia-binte-habib/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Artificial Intelligence & Robotics, Signals and Image Processing, Modeling and Simulation
+
+Name: Dr. Tanzilur  Rahman
+Email: tanzilur.rahman@northsouth.edu
+Website: https://ece.northsouth.edu/people/dr-tanzilur-rahman-2/
+University: North South University, ECE
+Country: Bangladesh
+Research Areas: Embedded Systems and Internet of Things (IoT), Modeling and Simulation, Semiconductor Device and Technology, Signals and Image Processing
+

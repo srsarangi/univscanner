@@ -1,0 +1,14 @@
+Name: Dr. Sinan Al-Ani
+Email: sanoman@ua.edu
+Website: https://eng.ua.edu/eng-directory/dr-sinan-al-ani/
+University: University of Alabama, Computer Science
+Country: USA
+Research Areas: Computer Privacy, Computer Security, Machine Learning
+
+Name: Dr. Travis Atkison
+Email: atkison@cs.ua.edu
+Website: https://eng.ua.edu/eng-directory/dr-travis-atkison/
+University: University of Alabama, Computer Science
+Country: USA
+Research Areas: Computer Security, Machine Learning, Software Engineering
+

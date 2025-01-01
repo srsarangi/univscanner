@@ -1,0 +1,14 @@
+Name: Ahmad Ali Abin
+Email: Not Found
+Website: https://en.sbu.ac.ir/about11
+University: Shahid Beheshti University
+Country: Iran
+Research Areas: Machine Learning, Deep Learning, Learning for Healthcare, Information Retrieval
+
+Name: 
+Email: Not Found
+Website: https://en.sbu.ac.ir/about11
+University: Shahid Beheshti University
+Country: Iran
+Research Areas: Machine Learning, Data Mining, Anomaly detection, High dimensional data
+

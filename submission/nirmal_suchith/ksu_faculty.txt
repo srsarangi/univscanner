@@ -1,0 +1,7 @@
+Name: Scott DeLoach 
+Email: sdeloach@k-state.edu
+Website: https://www.k-state.edu
+University: Kansas State University, CS
+Country: USA
+Research Areas: DeLoach’s research interests focus on applying software engineering methods, techniques and models to the design and development of intelligent, complex, adaptive, and autonomous multiagent and distributed systems. His research in this area currently focuses on runtime/design time models, tools, and techniques for smart grid and intelligent power distribution systems, and the use of runtime models for adaptive network security.
+

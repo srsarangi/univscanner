@@ -1,0 +1,91 @@
+Name: Hari  Narayanan
+Email: naraynh@auburn.edu
+Website: http://eng.auburn.edu/directory/naraynh
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer and Information Science, Ohio State UniversityM.S. Computer Science, University of RochesterM.E. Automation, Indian Institute of ScienceB.E. Electrical and Electronics Engineering, Birla Institute of Technology and ScienceResearch InterestsCognitive & Learning ScienceEducational TechnologyHuman-Computer InteractionArtificial Intelligence
+
+Name: Sathyanarayanan  Aakur
+Email: san0028@auburn.edu
+Website: http://eng.auburn.edu/directory/san0028
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science and Engineering, University of South FloridaM.S. Management Information Systems, University of South FloridaB.S. Electronics and Communication Engineering, Anna University (India)Research InterestsComputer VisionArtificial IntelligenceMachine Learning Applications for Agriculture and Genomics
+
+Name: Sanchuan  Chen
+Email: schen@auburn.edu
+Website: http://eng.auburn.edu/directory/szc0255
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science and Engineering, The Ohio State UniversityM.E. Computer Software and Theory, Institute of Software, Chinese Academy of SciencesB.E. Computer Software and Technology, University of Science and Technology of ChinaResearch InterestsMachine Learning SecurityTrusted Execution EnvironmentSoftware SecurityProgramming Languages
+
+Name: Gerry  Dozier
+Email: doziegv@auburn.edu
+Website: http://eng.auburn.edu/directory/doziegv
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, North Carolina State University-RaleighM.S. Computer Science, North Carolina State University-RaleighB.S. Computer Science, Northeastern Illinois UniversityResearch InterestsArtificial intelligenceComputational IntelligenceCyber securityIdentity scienceCyber identity protection and privacy
+
+Name: Effat  Farhana
+Email: e.farhana@auburn.edu
+Website: http://eng.auburn.edu/directory/ezf0057
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, North Carolina State UniversityB.S. Computer Science and Engineering, Bangladesh University of Engineering and TechnologyResearch InterestsMachine LearningData-Centric Artificial IntelligenceMachine Learning Applications for Education and HealthcareEmpirical Software EngineeringNatural Language Processing
+
+Name: Pan  He
+Email: pan.he@auburn.edu
+Website: http://eng.auburn.edu/directory/pzh0057
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, University of FloridaB.E. Software Engineering, Sichuan UniversityResearch InterestsComputer VisionMachine LearningDeep LearningSmart Infrastructure
+
+Name: Farah  Kandah
+Email: farah-kandah@auburn.edu
+Website: http://eng.auburn.edu/directory/fzk0016
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, North Dakota State UniversityM.S. Computer Science, University of JordanB.S. Computer Science, The Hashemite UniversityResearch InterestsCybersecurityInternet of ThingsBlockchainTrust ManagementMachine Learning
+
+Name: Samuel  Mulder
+Email: szm0211@auburn.edu
+Website: http://eng.auburn.edu/directory/szm0211
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, Missouri S&TM.S. Computer Science, Missouri S&TB.S. Computer Science, Texas Tech UniversityResearch InterestsCyber SecurityProgram AnalysisReverse EngineeringAdversarial AnalysisMachine Learning
+
+Name: Anh  Nguyen
+Email: anhnguyen@auburn.edu
+Website: http://eng.auburn.edu/directory/azn0044
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, University of WyomingM.S. Computer Science, University of WyomingB.S. Computer Science, Assumption UniversityResearch InterestsDeep LearningComputer VisionGenerative ModelingVisualizationArtificial General Intelligence
+
+Name: Vishalini  Ramnath
+Email: vlr0013@auburn.edu
+Website: http://eng.auburn.edu/directory/vlr0013
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science and Engineering, University of South FloridaM.S. Computer Science, University of Illinois-SpringfieldB.Eng. Electronics and Computer Engineering, Anna University, IndiaResearch InterestsComputer Science EducationMachine Learning Applications in GenomicsHardware Security
+
+Name: Yazhou  Tu
+Email: yzt0065@auburn.edu
+Website: http://eng.auburn.edu/directory/yzt0065
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, University of Louisiana at LafayetteM.S. Software Engineering, Tsinghua UniversityB.S. Software Engineering, Wuhan UniversityResearch InterestsCyber-Physical System SecuritySide Channel AnalysisSensing and Automation SecurityEmbedded SystemsPrivacy
+
+Name: Mark  Yampolskiy
+Email: mzy0033@auburn.edu
+Website: http://eng.auburn.edu/directory/mzy0033
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. in Computer Science, Ludwig Maximilian UniversityDiploma (M.S.) in Computer Science, Technical University MunichB.S. in Applied Mathematics, Moscow State Institute of Radiotechnics, Electronics and AutomationResearch InterestsSecurity of digital & additive manufacturingInternet of thingsComputer networks & systemsCybersecurity
+
+Name: Yang  Zhou
+Email: yangzhou@auburn.edu
+Website: http://eng.auburn.edu/directory/yzz0154
+University: Auburn University, CSSE
+Country: USA
+Research Areas: EducationPh.D. Computer Science, Georgia Institute of TechnologyM.E. Computer Application Technology, Chongqing UniversityB.E. Engineering, Jiangnan UniversityResearch InterestsBig Data Algorithms and SystemsData MiningMachine LearningParallel and Distributed ComputingDatabases
+

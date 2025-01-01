@@ -1,0 +1,7 @@
+Name: Khuloud N AlKhateeb
+Email: Khateeb.K:S3:@:S4:gust.edu.kw
+Website: https://www.gust.edu.kw/faculty-staff/Khateeb.K
+University: Gulf University for Science and Technology
+Country: Kuwait
+Research Areas: 1, CSC 125, Object Oriented Programming I, 2302, 2, CSC 476, Operating Systems, 2302, 3, CSC 102, Application Development for Beginners, 1902, 1, CSC 125, Object Oriented Programming I, 2302, 2, CSC 476, Operating Systems, 2302, 3, CSC 102, Application Development for Beginners, 1902
+

@@ -1,0 +1,7 @@
+Name: Atriya SenProfile page
+Email: atriya.sen@okstate.edu
+Website: Not Found
+University: Oklahoma State University, CS
+Country: USA
+Research Interests: I am an Artificial Intelligence (AI) researcher focusing on two relatively independent research thrusts: (1) Explainable AI, especially the mechanical interpretability of concept and knowledge acquisition in deep neural networks and of the role of logical reasoning in that process, and (2) "Biodiversity AI", the application of AI techniques to biodiversity science, ecological informatics and computational systematics, especially with the goal of impacting conservation decision-making. My current & past funding sources include the National Science Foundation and the National Institutes of Health.
+

@@ -1,0 +1,10 @@
+Name: Min, Dugki
+Email: dkmin@konkuk.ac.kr
+University: Konkuk University
+Research Areas: Distributed Systems / AI(Deep (Reinforcement) Learning) / Software Architecture
+
+Name: Hyun-Wook Jin
+Email: jinh@konkuk.ac.kr
+University: Konkuk University
+Research Areas: Operating Systems
+

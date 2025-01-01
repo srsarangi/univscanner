@@ -1,0 +1,5 @@
+Name: Dr.Selvakumar Subramanian
+Email: ssk@nitt.edu, selvanitt@gmail.com
+University: National Institute of Technology, Tiruchirappalli
+Specialization: Computer Networks, Group communication in High-Speed Networks, Routing, Multimedia Communication, Scheduling for QoS guarantee, Mobile Networks, Network Computing, Distributed Systems, Collaborative Computing, Wireless Sensor Networks, and Network Security
+

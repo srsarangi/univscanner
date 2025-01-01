@@ -1,0 +1,63 @@
+Name: Dr. Abdolreza Abhari
+Email: aabhari@cs.torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Artificial Intelligence and Agent Systems, Data Science, Distributed Systems, Modeling and Simulation, Network Simulation, Web Mining and Social Networks, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Nariman Farsad
+Email: nfarsad@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Augmented and Virtual Reality, Machine Learning and AI, Sensing and Communications, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Elodie Lugez
+Email: elodie.lugez@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Artificial Intelligence, Image-Guided Radiotherapy, Image Processing, Magnetic Resonance Imaging, Registration, Segmentation, Ultrasound Imaging, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Andriy Miranskyy
+Email: avm@cs.torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Applied Machine Learning, Big Data, Blockchain, Cloud Computing, Large Software Systems, Quantum Computing, Software Engineering, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Ali Miri
+Email: samiri@cs.torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Artificial Intelligence, Communications and Networks, Computer Networks, Cybersecurity, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Alireza Sadeghian
+Email: asadeghi@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Artificial Intelligence, Deep Learning, Machine Learning, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Rick Valenzano
+Email: rick.valenzano@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Artificial Intelligence, Automated Planning, Heuristic Search, Reinforcement Learning, Sequential Decision Making, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Guanghui (Richard) Wang
+Email: wangcs@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: Computer Vision, Intelligent Systems, Image Processing, Machine Learning, Office Hours:, Computer Science Webmail, Sitemap
+
+Name: Dr. Isaac Woungang
+Email: iwoungan@torontomu.ca
+Website: https://www.torontomu.ca/
+University: Toronto Metropolitan University, CS
+Country: Canada
+Research Areas: AI/Machine Learning/Deep Reinforcement Learning and its Applications to 6G and Beyond, Computer/Network Security, Cyber Physical Systems, Reconfigurable Intelligent Surface (RIS)-aided Wireless Communications, Resource Management in Multi-tier Assisted Cellular Wireless Networks, 6G and Beyond Cellular Networks, Office Hours:, Computer Science Webmail, Sitemap
+

@@ -1,0 +1,21 @@
+Name: Craig Shue
+Email: cshue@wpi.edu
+Website: https://www.wpi.edu/people/faculty/cshue
+University: Worcester Polytechnic Institute
+Country: USA
+Research Areas: Cyber Security, Computer Networking, Distributed Systems
+
+Name: Emmanuel Agu
+Email: emmanuel@wpi.edu
+Website: https://www.wpi.edu/people/faculty/emmanuel
+University: Worcester Polytechnic Institute
+Country: USA
+Research Areas: Mobile Health, Mobile Sensing, Computer Graphics, Machine Learning, Deep Learning
+
+Name: Tian Guo
+Email: tian@wpi.edu
+Website: https://www.wpi.edu/people/faculty/tian
+University: Worcester Polytechnic Institute
+Country: USA
+Research Areas: Cloud Computing, Edge Computing, AR/VR, Deep learning Systems, Distributed Systems
+

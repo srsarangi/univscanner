@@ -1,0 +1,480 @@
+Name: About
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/about/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academics
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/academics/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Student Resources
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/student-resources/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Faculty
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/faculty/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Research
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/research/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Back to Main
+Email: Not Found
+Website: https://www.slu.edu/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Parents and Families
+Email: Not Found
+Website: https://www.slu.edu/parents/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Parents and Families
+Email: Not Found
+Website: https://www.slu.edu/parents/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Alumni
+Email: Not Found
+Website: https://www.slu.edu/alumni/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Donors
+Email: Not Found
+Website: https://www.slu.edu/give/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Current Students
+Email: Not Found
+Website: https://www.slu.edu/current-students/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Faculty and Staff
+Email: Not Found
+Website: https://www.slu.edu/faculty-and-staff/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU-Madrid
+Email: Not Found
+Website: https://www.slu.edu/madrid/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Request Info
+Email: Not Found
+Website: https://www.slu.edu/request-information/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Visit
+Email: Not Found
+Website: https://www.slu.edu/visit/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Apply
+Email: Not Found
+Website: https://www.slu.edu/apply.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Give
+Email: Not Found
+Website: https://securelb.imodules.com/s/1264/17/form.aspx?sid=1264&gid=1&pgid=364&cid=924&paymenttype=perpetual&appealcode=GIFT99W9
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU People Finder
+Email: Not Found
+Website: https://peoplefinder.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academic Programs
+Email: Not Found
+Website: https://catalog.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU Libraries
+Email: Not Found
+Website: https://www.slu.edu/library/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: mySLU Login
+Email: Not Found
+Website: https://myslu.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU Bookstore
+Email: Not Found
+Website: https://billikenshop.com/
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academic Calendar
+Email: Not Found
+Website: https://www.slu.edu/registrar/calendars/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Request Info
+Email: Not Found
+Website: https://www.slu.edu/request-information/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Visit
+Email: Not Found
+Website: https://www.slu.edu/visit/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Apply
+Email: Not Found
+Website: https://www.slu.edu/apply.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Give
+Email: Not Found
+Website: https://securelb.imodules.com/s/1264/17/form.aspx?sid=1264&gid=1&pgid=364&cid=924&paymenttype=perpetual&appealcode=GIFT99W9
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU People Finder
+Email: Not Found
+Website: https://peoplefinder.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academic Programs
+Email: Not Found
+Website: https://catalog.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU Libraries
+Email: Not Found
+Website: https://www.slu.edu/library/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: mySLU Login
+Email: Not Found
+Website: https://myslu.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU Bookstore
+Email: Not Found
+Website: https://billikenshop.com/
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academic Calendar
+Email: Not Found
+Website: https://www.slu.edu/registrar/calendars/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: About
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/about/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Academics
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/academics/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Student Resources
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/student-resources/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Faculty
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/faculty/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Research
+Email: Not Found
+Website: https://www.slu.edu/science-and-engineering/research/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: min.choi@slu.edu
+Email: min.choi@slu.edu
+Website: mailto:min.choi@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: Jason Fritts, Ph.D.
+Email: jason.fritts@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/jason-fritts.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: David Letscher, Ph.D
+Email: david.letscher@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/david-letscher.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Ankit Agrawal, Ph.D.
+Email: ankit.agrawal.1@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ankit-agrawal.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Tae-Hyuk (Ted) Ahn, Ph.D.
+Email: ted.ahn@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/ted-ahn.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Hadi Akbarpour, Ph.D.
+Email: hadi.akbarpour@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/hadi-akbarpour.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Orhun Aydin, Ph.D.
+Email: orhun.aydin@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/earth-atmospheric-sciences/faculty/aydin-orhun.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Qinglei Cao, Ph.D.
+Email: qinglei.cao@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/qinglei-cao.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Nan Cen, Ph.D.
+Email: nan.cen@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/nan-cen.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Flavio Esposito, Ph.D
+Email: flavio.esposito@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/flavio-esposito.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: David Ferry, Ph.D.
+Email: david.ferry@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/david-ferry.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Michael Goldwasser, Ph.D.
+Email: michael.goldwasser@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/michael-goldwasser.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Kate Holdener, Ph.D.
+Email: kate.holdener@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/kate-holdener.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Jie Hou, Ph.D.
+Email: jie.hou@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/jie-hou.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Michael Liljegren
+Email: mike.liljegren@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/michael-liljegren.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: james.mccollum@slu.edu
+Email: james.mccollum@slu.edu
+Website: mailto:james.mccollum@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: Bahareh Rahmani, Ph.D.
+Email: bahareh.rahmani@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/bahareh-rahmani.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Vasit Sagan, Ph.D.
+Email: vasit.sagan@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/earth-atmospheric-sciences/faculty/sagan-vasit.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: daniel.shown@slu.edu
+Email: daniel.shown@slu.edu
+Website: mailto:daniel.shown@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: Abby Stylianou, Ph.D.
+Email: abby.stylianou@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/abby-stylianou.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: jacob.sukhodolsky@slu.edu
+Email: jacob.sukhodolsky@slu.edu
+Website: mailto:jacob.sukhodolsky@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: Reza Tourani, Ph.D.
+Email: reza.tourani@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/reza-tourani.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Wei Wang, Ph.D.
+Email: wei.wang.5@slu.edu
+Website: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/wei-wang.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: paul.boal@health.slu.edu
+Email: paul.boal@health.slu.edu
+Website: mailto:paul.boal@health.slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: shayna.corbin@slu.edu
+Email: shayna.corbin@slu.edu
+Website: mailto:shayna.corbin@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: judy.etchison@slu.edu
+Email: judy.etchison@slu.edu
+Website: mailto:judy.etchison@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: michael.holmes@health.slu.edu
+Email: michael.holmes@health.slu.edu
+Website: mailto:michael.holmes@health.slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: malgorzata.moll@slu.edu
+Email: malgorzata.moll@slu.edu
+Website: mailto:malgorzata.moll@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: daniel.shown@slu.edu
+Email: daniel.shown@slu.edu
+Website: mailto:daniel.shown@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: wayde.stallmann@slu.edu
+Email: wayde.stallmann@slu.edu
+Website: mailto:wayde.stallmann@slu.edu
+University: Saint Louis University, CS
+Country: USA
+
+Name: mySLU
+Email: Not Found
+Website: https://auth.slu.edu/
+University: Saint Louis University, CS
+Country: USA
+
+Name: Campus Map
+Email: Not Found
+Website: https://www.slu.edu/campusmap/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Work at SLU
+Email: Not Found
+Website: https://www.slu.edu/working-at-slu/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: A-Z Directory
+Email: Not Found
+Website: https://www.slu.edu/a-z.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Emergency Info
+Email: Not Found
+Website: https://www.slu.edu/about/safety/campus-emergency.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Disclaimer
+Email: Not Found
+Website: https://www.slu.edu/disclaimer/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Parents and Families
+Email: Not Found
+Website: https://www.slu.edu/parents/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Alumni
+Email: Not Found
+Website: https://www.slu.edu/alumni/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Donors
+Email: Not Found
+Website: https://www.slu.edu/give/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Current Students
+Email: Not Found
+Website: https://www.slu.edu/current-students/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: Faculty and Staff
+Email: Not Found
+Website: https://www.slu.edu/faculty-and-staff/index.php
+University: Saint Louis University, CS
+Country: USA
+
+Name: SLU-Madrid
+Email: Not Found
+Website: https://www.slu.edu/madrid/index.php
+University: Saint Louis University, CS
+Country: USA
+

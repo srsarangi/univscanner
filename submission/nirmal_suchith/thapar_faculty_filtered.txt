@@ -1,0 +1,70 @@
+Name: Dr. Sharad Saxena
+Email: sharad.saxena@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTc3
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Wireless Ad-Hoc Sensor Networks and IoT
+
+Name: Dr. Rajendra Kumar Roul
+Email: raj.roul@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyNw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Machine Learning, Deep Learning, IoT
+
+Name: Mr. Anil Vashisht
+Email: avashisht@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTc4
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Computer Networks, DBMS, System Analysis & Design, Computer System Architecture,Databases , networks
+
+Name: Dr. Karamjeet Singh
+Email: karamjeet.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAyOA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Medical Image Processing, Machine Learning, IoT, Medical Image Retrieval.
+
+Name: Dr. Anil Singh
+Email: anil.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQyMA==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cloud, Fog & Edge Computing, Distributed Systems
+
+Name: Dr. Yashwant Singh Patel
+Email: yashwant.patel@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTQ5Mw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cloud Computing, Edge Computing, Distributed Systems, and Deep Learning
+
+Name: Mr. Sumit Miglani
+Email: smiglani@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/OTg1
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Operating System, Wireless Communication & Computing
+
+Name: Dr. Gurpal Singh Chhabra
+Email: gurpal.singh@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTAwMw==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Cyber  Forensics, Network Security, Big Data Analytics and Business Intelligence, IoT, Machine learning, Sentiment Analysis.
+
+Name: Dr. Anurag Tiwari
+Email: anurag.tiwari@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTU0Ng==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: High-Dimensional Data Modelling, Computational Neuroscience, Natural Language Processing, Brain-Computer Interface (BCI) Modelling, Computer Vision, and Medical Image Analysis
+
+Name: Dr. Shruti Aggarwal
+Email: shruti.aggarwal@thapar.edu
+Website: https://csed.thapar.edu/facultydetails/MTY1MQ==
+University: Thapar Institute of Engineering and Technology, CS
+Country: India
+Research Areas: Data Mining, Software Engineering, Databases, Artificial Intelligence, Big Data, IoT
+

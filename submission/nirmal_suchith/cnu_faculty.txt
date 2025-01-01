@@ -1,0 +1,20 @@
+Name: Kim, Hyong-Shik
+Phone: +82 42 821-6277
+University: Chungnam National University
+Research Areas: Computer System Architecture & Security
+
+Name: Kim, Hyungshin
+Phone: +82 42 821-5446
+University: Chungnam National University
+Research Areas: Embedded System,UbiquitousComputing
+
+Name: Lee, Cheolhoon
+Phone: +82 42 821-6659
+University: Chungnam National University
+Research Areas: Real-Time Systems, System Software
+
+Name: Choi, Hoon
+Phone: +82 42 821-6652
+University: Chungnam National University
+Research Areas: Distributed Systems
+

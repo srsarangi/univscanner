@@ -1,0 +1,21 @@
+Name: Can Isik
+Email: cisik@syr.edu
+Website: https://ecs.syracuse.edu/faculty-staff/can-isik
+University: Syracuse University, ECS
+Country: USA
+Research Areas: Artificial Intelligence Applications, Controls, Modeling, Decision Making, Medical Instrumentation, Indoor Environmental Systems
+
+Name: Pankaj K. Jha
+Email: pkjha@syr.edu
+Website: https://ecs.syracuse.edu/faculty-staff/pankaj-k-jha
+University: Syracuse University, ECS
+Country: USA
+Research Areas: Quantum information science, Quantum sensing and metrology, Quantum nano- and meta-photonics, Bio-inspired materials, Bio-nano ​interfaces, Machine learning
+
+Name: Pramod K. Varshney
+Email: varshney@syr.edu
+Website: https://ecs.syracuse.edu/faculty-staff/pramod-k-varshney
+University: Syracuse University, ECS
+Country: USA
+Research Areas: Distributed sensor networks and data fusion, Statistical inference, Wireless communications, Signal processing, Machine learning, Human-machine teaming
+

@@ -1,0 +1,14 @@
+Name: Dr. Bujar Raufi
+Email: bujar.raufi@tudublin.ie
+Website: https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/school-of-computer-science/people/academic-staff/bujar-raufi.php
+University: Technological University Dublin, School of Computer Science
+Country: Ireland
+Research Areas: Faculties and Schools, Mental Workload and Personalization, , Machine Learning, , Explainable Artificial Intelligence, , Twitter, Instagram, Facebook, YouTube, LinkedIn, TikTok
+
+Name: Dr Sunder Ali Khowaja
+Email: sunderali.khowaja@tudublin.ie
+Website: https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/school-of-computer-science/people/academic-staff/sunder-ali-khowaja.php
+University: Technological University Dublin, School of Computer Science
+Country: Ireland
+Research Areas: Faculties and Schools, Object Oriented Programming, , Computer Vision, , Database Administration, , Deep Learning, , Computer Vision, , Privacy Preservation Machine Learning, , Self-Supervised Learning, , Image Restoration, , Twitter, Instagram, Facebook, YouTube, LinkedIn, TikTok
+

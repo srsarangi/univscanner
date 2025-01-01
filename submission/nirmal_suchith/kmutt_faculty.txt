@@ -1,0 +1,35 @@
+Name: Dr. Prapong Prechaprapranwong
+Email: prapong.pre@kmutt.ac.th
+Website: https://www.cpe.kmutt.ac.th/en/staff/prapong-prechaprapranwong/
+University: King Mongkut's University of Technology Thonburi, CPE
+Country: Thailand
+Research Areas: Quantum Computing, Embedded Systems, Internet of Things
+
+Name: Rajchawit Sarochawikasit
+Email: rajchawit.sar@mail.kmutt.ac.th
+Website: https://www.cpe.kmutt.ac.th/en/staff/rajchawit-sarochawikasit/
+University: King Mongkut's University of Technology Thonburi, CPE
+Country: Thailand
+Research Areas: High Performance Computing, Quantum Computing, Computational Sciences
+
+Name: Dr. Naruemon Wattanapongsakorn
+Email: naruemon.wat@mail.kmutt.ac.th
+Website: https://www.cpe.kmutt.ac.th/en/staff/naruemon-wattanapongsakorn/
+University: King Mongkut's University of Technology Thonburi, CPE
+Country: Thailand
+Research Areas: Optimization, Data Mining, Artificial Intelligence
+
+Name: Dr. Jumpol Polvichai
+Email: jumpol.ineng@mail.kmutt.ac.th
+Website: https://www.cpe.kmutt.ac.th/en/staff/jumpol-polvichai/
+University: King Mongkut's University of Technology Thonburi, CPE
+Country: Thailand
+Research Areas: Robotics, Machine Learning
+
+Name: Dr. Booncharoen Sirinaovakul
+Email: boon@cpe.kmutt.ac.th
+Website: https://www.cpe.kmutt.ac.th/en/staff/booncharoen-sirinaovakul/
+University: King Mongkut's University of Technology Thonburi, CPE
+Country: Thailand
+Research Areas: Artificial Intelligence
+

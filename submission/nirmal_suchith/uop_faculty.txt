@@ -1,0 +1,56 @@
+Name: Dr. Saeed Mahfooz (Retired)
+Email: saeedmahfooz@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=1&q=Dr-Saeed-Mahfooz-(Retired)
+University: University of Peshawar
+Country: Pakistan
+Research Areas: Networks, Mobile Adhoc networks, Wireless sensor Networks, Distrinuted systems, Differential services, Routing Algorithms, Internet Protocol IPv6
+
+Name: Dr. Huma Javed
+Email: humajaved15@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=14&q=Dr-Huma-Javed
+University: University of Peshawar
+Country: Pakistan
+Research Areas: �	Middleware, 
+�	Sensor networks, 
+�	Embedded systems, 
+�	Pervasive computing 
+�	Wireless communications.
+
+Name: Dr. Abdul Haseeb Malik
+Email: haseeb@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=705&q=Dr-Abdul-Haseeb-Malik
+University: University of Peshawar
+Country: Pakistan
+Research Areas: Concurrency and Parallelism, Real Time Systems, Blockchain and Distributed Systems, Programming Languages, 
+Computer Architecture
+
+Name: Dr. Qazi Ejaz Ali
+Email: qaziejazali@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=13&q=Dr-Qazi-Ejaz-Ali
+University: University of Peshawar
+Country: Pakistan
+Research Areas: Network Security and Privacy, Cyber Security and Privacy, IoT Security and Privacy
+
+Name: Dr. Waheed ur Rehman
+Email: wahrehman@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=11&q=Dr-Waheed-ur-Rehman
+University: University of Peshawar
+Country: Pakistan
+Research Areas: mmWave Communication, MTC/M2M Communication in 6G Networks, Caching and Data Offloading in Cellular Networks
+
+Name: Mr. Muhammad Sadeequllah
+Email: sadeequllah@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=943&q=Mr-Muhammad-Sadeequllah
+University: University of Peshawar
+Country: Pakistan
+Research Areas: Machine Learning-Artificial Neural Networks,
+Swarm Intelligence-Particle Swarm Optimization,
+Data Mining-Frequent Itemset Mining
+
+Name: Ms. Sumaira Shahid
+Email: sumairaro@uop.edu.pk
+Website: http://www.uop.edu.pk/departments/Teaching-Faculty/?r=706&q=Ms-Sumaira-Shahid
+University: University of Peshawar
+Country: Pakistan
+Research Areas: Computer Networks, Deep Learning, Machine Learning
+

@@ -1,0 +1,20 @@
+Name: Alam, Mustafa,Ph.D.
+Email: mustafa.alam@ttu.edu
+University: Texas Tech University
+Research Areas: Image processing, Machine learning/Deep learning, Computer vision, Medical image processing, Biostatistics, Electrical circuits and power systems
+
+Name: Liao, Song,Ph.D.
+Email: song.liao@ttu.edu
+University: Texas Tech University
+Research Areas: IoT Security and Privacy, Policy and Privacy Compliance on Open Platforms, Data Science
+
+Name: Salman, Tara,Ph.D.
+Email: tsalman@ttu.edu
+University: Texas Tech University
+Research Areas: Cybersecurity (specifically network security), Blockchains and distributed systems, Artificial intelligence and machine learning
+
+Name: Zhuang, Yu,Ph.D.
+Email: yu.zhuang@ttu.edu
+University: Texas Tech University
+Research Areas: IoT security, Physical Unclonable Functions (PUFs), High-dimensional data modeling, application to semiclassical dynamics, Machine learning, application to security vulnerability study of PUFs, High performance scientific computing
+

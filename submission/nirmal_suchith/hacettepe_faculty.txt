@@ -1,0 +1,5 @@
+Name: Prof. Dr. Ahmet Burak CAN
+Email: abc@hacettepe.edu.tr
+University: Hacettepe University
+Research Areas: Computer Vision, Information Security, Distributed Systems
+

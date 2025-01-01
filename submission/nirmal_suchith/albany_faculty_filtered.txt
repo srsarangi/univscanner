@@ -1,0 +1,49 @@
+Name: Jeff Offutt
+Email: offutt@albany.edu
+Website: https://www.albany.edu/faculty/offutt/
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Software testing, computer science and software engineering education, and software evolution and maintenance
+
+Name: Mei-Hwa F. Chen
+Email: mhc@cs.albany.edu
+Website: Not Found
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Software testing, big data for education
+
+Name: Jeong-Hyon Hwang
+Email: jhwang@albany.edu
+Website: Not Found
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Databases, distributed systems, real-time data processing, graph analytics
+
+Name: Jackson Marques de Carvalho
+Email: jmarquesdecarvalho@albany.edu
+Website: Not Found
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Software engineering, autonomous UAV navigation, multimodal human-computer interaction and user modeling, and document processing
+
+Name: Michael Phipps
+Email: mphipps@albany.edu
+Website: Not Found
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Programming Languages, Compiler Design, Computer Architecture and Organization, User Interface Design, Operating Systems
+
+Name: Upsorn Praphamontripong
+Email: upraphamontripong@albany.edu
+Website: https://www.albany.edu/faculty/upraphamontripong/teaching.html
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: software engineering, computer science education, software testing and maintenance, software usability, software reliability and performance analysis, and database systems.
+
+Name: Mariya Zheleva
+Email: mzheleva@albany.edu
+Website: Not Found
+University: University at Albany, Department of Computer Science
+Country: USA
+Research Areas: Next generation mobile wireless networks, focusing on autonomous spectrum measurement and dynamic access, architectures and resource allocation in IoT-and-Traditional (IoT and T) networks, measurement infrastructures and networked system design, integration and in-situ deployment
+

@@ -1,0 +1,21 @@
+Name: Short Learning Programs
+Email: Not Found
+Website: https://osprey.unisa.ac.za/research/profile2.htm?email=DBISCHOF&title=Dr&fname=Danie&sname=Bisschoff
+University: University of South Africa, CS
+Country: South Africa
+Research Areas: ICT2631 (Operating Systems Practice)ICT3631 (Advanced Operating Systems Practice)
+
+Name: Short Learning Programs
+Email: Not Found
+Website: https://osprey.unisa.ac.za/research/profile2.htm?email=DONGMC&title=Dr&fname=Cyrille&sname=Dongmo
+University: University of South Africa, CS
+Country: South Africa
+Research Areas: COS3721 (Operating Systems and Architecture)
+
+Name: Short Learning Programs
+Email: Not Found
+Website: https://osprey.unisa.ac.za/research/profile2.htm?email=EVDPOEL&title=Prof&fname=Etienne&sname=van
+University: University of South Africa, CS
+Country: South Africa
+Research Areas: COS3751 (Techniques of Artificial Intelligence)COS4852 (Machine Learning)
+

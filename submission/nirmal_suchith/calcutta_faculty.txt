@@ -1,0 +1,15 @@
+Name: BANANI SAHA[Profile]
+Email: bsaha_29@yahoo.com9433130715
+University: University of Calcutta
+Research Areas: Data Mining, Image Processing, Quantum Computing
+
+Name: SANJIT KUMAR SETUA[Profile]
+Email: sksetua@gmail.com9433146397
+University: University of Calcutta
+Research Areas: Network Security, Genetic Algorithm
+
+Name: NABENDU CHAKI[Profile]
+Email: nabendu@ieee.org9433068073
+University: University of Calcutta
+Research Areas: Software Engineering, Distributed Systems
+

@@ -1,0 +1,20 @@
+Name: Dr. Navjot Rathour
+University: Chandigarh University
+Research Areas: Image Processing, Embedded systems
+
+Name: Dr. Sukhpreet Singh
+University: Chandigarh University
+Research Areas: RF Design, Embedded System
+
+Name: Dr. Prabhjot Singh
+University: Chandigarh University
+Research Areas: Wireless Sensor Network, IoT
+
+Name: Ms. Kritika Raj Sharma
+University: Chandigarh University
+Research Areas: Wireless Sensor Network, IoT
+
+Name: Ms. Rana Gill
+University: Chandigarh University
+Research Areas: Wireless Sensor Network, IoT
+

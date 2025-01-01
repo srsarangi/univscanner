@@ -1,0 +1,87 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+import csv
+import re
+from bs4 import BeautifulSoup
+
+def okstate_faculty():
+    # Set up Selenium WebDriver
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    base_url = "https://cas.okstate.edu"
+    faculty_directory_url = f"{base_url}/computer_science/about_us/faculty_staff.html"
+    driver.get(faculty_directory_url)
+    driver.implicitly_wait(10)
+
+    # Parse the faculty directory page
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    professor_sections = soup.select('.teaser')
+
+    # File setup for output
+    txt_filename = "okstate_faculty.txt"
+    csv_filename = "okstate_faculty.csv"
+
+    txt_file = open(txt_filename, "w", encoding="utf-8")
+    csv_file = open(csv_filename, "w", newline='', encoding="utf-8")
+    csvwriter = csv.writer(csv_file)
+
+    # Write CSV header
+    csvwriter.writerow(["University", "Country", "Name", "Email", "Website", "Research Interests"])
+
+    # University and country information
+    university = "Oklahoma State University, CS"
+    country = "USA"
+
+    # Keywords for filtering relevant faculty
+    keyword_list = [
+        'embedded systems', 'embedded software', 'hardware systems',
+        'system architecture', 'IoT', 'real-time systems',
+        'operating systems', 'system programming', 'system software',
+        'distributed systems', 'kernel', 'machine learning', 'deep learning', 'artificial intelligence'
+    ]
+
+    # Process each professor's section
+    for section in professor_sections:
+        try:
+            # Extract the professor's profile link
+            profile_url = section.find('a', class_='teaser__link')['href']
+
+            # Visit the professor's profile page
+            driver.get(profile_url)
+            driver.implicitly_wait(10)
+            profile_soup = BeautifulSoup(driver.page_source, "html.parser")
+
+            # Extract professor's name
+            name_tag = profile_soup.find("h1", class_="O9CYQ3LEhteXx05NrDZ6")
+            name = name_tag.get_text(strip=True) if name_tag else "Not Found"
+
+            # Extract professor's email
+            email_tag = profile_soup.find("a", href=re.compile(r"mailto:"))
+            email = email_tag.get_text(strip=True) if email_tag else "Not Found"
+
+            # Extract professor's website
+            website_tag = profile_soup.find("a", href=re.compile(r"http.*"), text="Web Site")
+            website = website_tag['href'] if website_tag else "Not Found"
+
+            # Extract research interests
+            research_div = profile_soup.find("div", class_="gnB0iOMtkvbpCBVtHjNU")
+            research_text = research_div.get_text(strip=True, separator="\n") if research_div else "Not Found"
+
+            # Check if research matches any keywords
+            if any(re.search(keyword, research_text, re.IGNORECASE) for keyword in keyword_list):
+                # Save the relevant professor's details
+                txt_file.write(f"Name: {name}\nEmail: {email}\nWebsite: {website}\nUniversity: {university}\nCountry: {country}\nResearch Interests: {research_text}\n\n")
+                csvwriter.writerow([university, country, name, email, website, research_text])
+
+        except Exception as e:
+            print(f"Error processing a professor section: {e}")
+
+    # Close files and driver
+    txt_file.close()
+    csv_file.close()
+    driver.quit()
+
+    print("Data extraction complete")
+
+if __name__ == "__main__":
+    okstate_faculty()
