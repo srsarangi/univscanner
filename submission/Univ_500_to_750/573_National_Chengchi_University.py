@@ -1,0 +1,133 @@
+import requests
+import urllib.request
+import time
+import urllib
+import re
+import csv
+from bs4 import BeautifulSoup
+
+def chengchi(url):
+    # url = "https://www.cs.nccu.edu.tw/web/team/team.jsp?lang=en"
+    response = requests.get(url)
+    if response.status_code == 200:
+        # scrappable
+        # print("entered")
+        # return
+        soup = BeautifulSoup(response.text, "html.parser")
+        csv_filename = "National Chengchi University.csv"
+        final_csv = "combined.csv"
+        
+        f1 = open(csv_filename, "w") # write data to the csv
+        csvwriter1 = csv.writer(f1)
+
+        f2 = open(final_csv, "a") # append data to the combined csv
+        csvwriter2 = csv.writer(f2)
+
+        univ_name = "National Chengchi University"
+        country = "Taiwan"
+
+        garbage_emails = [] # add garbage emails to this list
+
+        variables = [csvwriter1, csvwriter2, univ_name, country, garbage_emails]
+        d = soup.find('div', {'class': 'teacher_list_area'})
+
+        dd = d.find_all('div',{'class':'teacher_list'})
+        print(len(dd))
+        for i in dd:
+            prof = i.find('div',{'class':'tL_right'})
+            if prof == None:
+                continue
+            name_div = prof.find('div',{'class':'tLR_tit'})
+            if name_div == None:
+                continue
+            a = name_div.find('a')
+            if a == None:
+                continue
+            link = a.get('href')
+            name = a.get_text().strip()
+            print(name,link)
+            email = "Not Found"
+            try:
+                prof_resp = requests.get(link)
+            except:
+                print("prof website not reached on time")
+                continue
+            get_email(variables,garbage_emails,name,link,email,prof_resp)
+
+
+        
+        f1.close()
+        f2.close()
+        print("Finished")
+    else:
+        #print status code
+        print(response.status_code)
+        print("Error")
+
+
+
+def get_email(variables,garbage_emails,name,link,email,page_resp):
+    csvwriter1, csvwriter2, univ_name, country, garbage_emails = variables
+    # if email != "Not Found": # if email is already found, no need to find it again (at line 50)
+    #     # just write
+    #     csvwriter1.writerow([univ_name,country,name,email,link])
+    #     csvwriter2.writerow([univ_name,country,name,email,link])
+    #     return
+    prof_soup = BeautifulSoup(page_resp.text, "html.parser")
+    # key_words = ['BASE'] # base is used when there is no use of keywords
+    key_words = ['operating systems','Embedded System','embedded system', 'Operating Systems','operating system','Operating System','embedded systems',"Embedded Systems"]
+    # key_words_spanish = ['sistemas operativos', 'sistema embebido', 'sistema embebido', 'Sistemas Operativos', 'sistema operativo', 'Sistema Operativo', 'sistemas embebidos', 'Sistemas Embebidos']
+
+    prof_text = prof_soup.text   # get the text from the page
+
+    for word in key_words:
+        if re.search(word,prof_text,re.IGNORECASE) or word == 'BASE':
+            print("matched_word: ",word)
+            if email != "Not Found": # if email is already found, no need to find it again (at line 50)
+                # just write
+                csvwriter1.writerow([univ_name,country,name,email,link])
+                csvwriter2.writerow([univ_name,country,name,email,link])
+            else:
+                new_emails = list(re.findall(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}", prof_text))
+                for em in garbage_emails:
+                    if em in new_emails:
+                        new_emails.remove(em)
+                if len(new_emails) == 0:
+                    email = "Email Not Found"
+                    csvwriter1.writerow([univ_name,country,name,email,link])
+                    csvwriter2.writerow([univ_name,country,name,email,link])
+                else:
+                    prof_email = new_emails[0]
+                    csvwriter1.writerow([univ_name,country,name,prof_email,link])
+                    csvwriter2.writerow([univ_name,country,name,prof_email,link])
+            
+            break
+
+
+                
+            
+
+
+if __name__ == '__main__':
+    # chengchi()
+    url1= "https://www.cs.nccu.edu.tw/web/team/team.jsp?lang=en"
+    url2 = "https://www.cs.nccu.edu.tw/web/team/team_2.jsp?dm_no=DM1569468368374"
+    url3 = "https://www.cs.nccu.edu.tw/web/team/team_2.jsp?dm_no=DM1560932834372"
+    url4 = "https://www.cs.nccu.edu.tw/web/team/team_2.jsp?dm_no=DM1560932822926"
+    chengchi(url1)
+    chengchi(url2)
+    chengchi(url3)
+    chengchi(url4)
+    
+
+
+
+            
+
+
+
+
+
+
+
+        
